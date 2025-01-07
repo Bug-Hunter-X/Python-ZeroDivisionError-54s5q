@@ -1,0 +1,1 @@
+This repository contains a simple Python function that demonstrates a common runtime error: ZeroDivisionError.  The function `my_function` attempts to divide `a` by `b`. If `b` is zero, a ZeroDivisionError is raised. The solution demonstrates how to handle this using exception handling (try-except block).
